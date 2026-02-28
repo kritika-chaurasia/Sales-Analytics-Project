@@ -41,4 +41,4 @@ README.md    → Project documentation
 
 ---
 
-📄 Detailed Project Report: [View Here](Project_Report_Sales_Analysis.pdf)
+📄 Detailed Project Report: [View Here](SALES%20DATA%20ANALYSIS%20PROJECT%20REPORT.pdf)
