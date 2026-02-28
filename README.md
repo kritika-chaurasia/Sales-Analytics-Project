@@ -39,4 +39,6 @@ README.md    → Project documentation
 <img width="1263" height="720" alt="powerbi3" src="https://github.com/user-attachments/assets/3b675590-8ee2-48fa-b1d3-21508d51841e" />
 <img width="1266" height="719" alt="powerbi4" src="https://github.com/user-attachments/assets/65630f86-d532-4b1b-864e-ee6bdf6efa9e" />
 
+---
 
+📄 Detailed Project Report: [View Here](Project_Report_Sales_Analysis.pdf)
